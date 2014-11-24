@@ -6,4 +6,4 @@ Right now this plugin only works on Firefox.
 
 Installation 
 ======
-To install, download uncFix.xpi and open it with Firefox.
+To install, download uncFix.xpi in the Firefox folder and open it with Firefox.
