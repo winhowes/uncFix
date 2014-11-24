@@ -1,0 +1,9 @@
+{
+  "name": "uncfix",
+  "title": "uncFix",
+  "id": "jid1-CuSVj77SQFYxSg",
+  "description": "a security patch for UNC's Connect Carolina and affiliated services",
+  "author": "Winston Howes",
+  "license": "MPL 2.0",
+  "version": "0.1"
+}
